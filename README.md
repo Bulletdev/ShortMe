@@ -33,7 +33,7 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://)
+- [Demo](https://shortm.vercel.app)
 
 ## 🚀 Getting started
 
@@ -63,4 +63,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by Michael Bullet :wave: [Get in touch](https://)
+Made with ❤️ by Michael Bullet :wave: [Get in touch](https://shortm.vercel.app)
