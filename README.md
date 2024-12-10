@@ -14,7 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bulletdev/ShortMe?color=04D361&labelColor=000000">
   </a>
 </p>
-
+ 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
