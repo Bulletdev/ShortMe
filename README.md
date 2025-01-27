@@ -13,7 +13,7 @@
   <a href="https://github.com/Bulletdev/ShortMe/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bulletdev/ShortMe?color=04D361&labelColor=000000">
   </a>
-</p>
+</p> 
  
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
