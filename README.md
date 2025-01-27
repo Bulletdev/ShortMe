@@ -1,7 +1,7 @@
 <h1 align="center">🌲 ShortMe</h1>
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
-<p align="center">
+<p align="center"> 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Bulletdev/ShortMe?color=04D361&labelColor=000000">
   
   <a href="https://www.linkedin.com/in/Michael-Bullet/"> 
